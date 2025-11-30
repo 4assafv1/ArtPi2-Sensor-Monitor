@@ -1,0 +1,7 @@
+[
+ {
+  "path": "/packages/peripherals/sensors/dht11", 
+  "ver": "latest", 
+  "name": "DHT11"
+ }
+]
